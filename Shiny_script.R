@@ -17,7 +17,7 @@ ui <- fluidPage(
             submitButton("Submit"),
             p("Codes are available ",
         a("here.", 
-          href = "http://shiny.rstudio.com")),
+          href = "https://github.com/hungenlai90/my-first-repo/blob/master/Shiny_script.R")),
         ),
         mainPanel(
             h2("Scatter Plot"),
